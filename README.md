@@ -59,3 +59,8 @@ Hello, I am a customer engineer and an adept problem solver. I am looking for fu
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 <br>
+<br>
+
+### Top Languages :
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameebhuva&layout=compact)
